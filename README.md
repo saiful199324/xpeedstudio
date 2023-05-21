@@ -9,6 +9,8 @@ Getting Started
 
 clone the project git clone https://github.com/saiful199324/xpeedstudio.git
 
+you will find database into DB folder
+
 please use following links for run this application. 
 
 http://localhost/xpeedstudio/public/
